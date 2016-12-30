@@ -1,0 +1,10 @@
+#aol_ad_metas label, #app_form_fields label{
+    display: inline-block;
+    min-width: 100px;
+    text-transform: capitalize;
+}
+
+.app_form_fields{background: #F9F9F9}
+.app_form_fields .adapp_group{padding-bottom: 20px;}
+
+.post-type-aol_applications .widefat td, .post-type-aol_applications .widefat th{min-width: 120px; vertical-align: middle}

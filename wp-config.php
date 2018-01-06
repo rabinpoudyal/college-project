@@ -29,7 +29,7 @@ define('DB_NAME', 'nist');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'qzahm123');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
